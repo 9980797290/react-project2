@@ -73,7 +73,7 @@ font-family: sans-serif;
   }
 
 .container {
-   border-radius: 5px;
+   border-radius: 10px;
     width: 90%;
     height: fit-content;
     padding: 30px;
